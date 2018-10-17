@@ -1,4 +1,4 @@
-package com.mindtree.ThreadExample;
+package com.example.ThreadExample;
 
 public class Message {
     private String msg;

@@ -1,9 +1,7 @@
-package com.mindtree.ThreadExample;
+package com.example.ThreadExample;
 
 import java.util.Map;
 import java.util.Random;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
 
 public class WriterThread extends Thread {
     private Map<Integer, String> map;

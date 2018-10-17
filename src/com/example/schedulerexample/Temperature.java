@@ -1,4 +1,4 @@
-package com.mindtree.schedulerexample;
+package com.example.schedulerexample;
 
 public class Temperature {
     String temperature;

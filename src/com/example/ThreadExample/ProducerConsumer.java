@@ -1,4 +1,4 @@
-package com.mindtree.ThreadExample;
+package com.example.ThreadExample;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
